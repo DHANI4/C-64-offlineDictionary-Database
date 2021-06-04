@@ -49,6 +49,11 @@ const dictionary = {
     "lexicalCategory":"Adjective",
     "definition" : "with no special or distinctive features; normal"
   }
+  "consider":{
+   "word":"consider",
+   "lexicalCategory":"adverb"
+   "definition":"think carefully about (something), typically before making a decision."
+  }
 }
 
 export default dictionary
